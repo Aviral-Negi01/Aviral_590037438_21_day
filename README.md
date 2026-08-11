@@ -25,7 +25,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | Day | Focus | Status |
 |:---:|---|:---:|
 | 01 | Python Basics — Variables, Data Types & Operators |✅|
-| 02 | — | ⬜ |
+| 02 | Strings |✅|
 | 03 | — | ⬜ |
 | 04 | — | ⬜ |
 | 05 | — | ⬜ |
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `1 / 21`
+**Days Completed:** `2 / 21`
 
 ```text
-Progress: ░░░░░░░░░░░░░░░░░░░░ 5%
+Progress: ░░░░░░░░░░░░░░░░░░░░ 10%
 ```
 
 This section will be updated throughout the challenge.
