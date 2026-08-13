@@ -27,7 +27,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 01 | Python Basics — Variables, Data Types & Operators |✅|
 | 02 | Strings |✅|
 | 03 | Numbers |✅|
-| 04 | — | ⬜ |
+| 04 | Collections | ✅ |
 | 05 | — | ⬜ |
 | 06 | — | ⬜ |
 | 07 | — | ⬜ |
@@ -78,14 +78,14 @@ Each day will contain the code, exercises, and notes related to that day's learn
 
 Throughout the challenge, I'll focus on areas such as:
 
-- Programming fundamentals
-- Problem solving
-- Data structures & algorithms
-- Functions and modular programming
-- Debugging
-- Git & GitHub
-- Small practical projects
-- Writing cleaner and more efficient code
+- Build a consistent daily coding habit.
+- Strengthen my understanding of Python fundamentals.
+- Improve problem-solving and logical thinking.
+- Practice writing clean and readable Python code.
+- Become more comfortable solving problems independently.
+- Maintain a public record of my learning journey.
+- Complete **21 consecutive days of Python practice**.
+
 
 The exact topics may evolve as the challenge progresses.
 
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `3 / 21`
+**Days Completed:** `4 / 21`
 
 ```text
-Progress: ░░░░░░░░░░░░░░░░░░░░ 15%
+Progress: ░░░░░░░░░░░░░░░░░░░░ 19%
 ```
 
 This section will be updated throughout the challenge.
