@@ -28,7 +28,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 02 | Strings |✅|
 | 03 | Numbers |✅|
 | 04 | Collections | ✅ |
-| 05 | — | ⬜ |
+| 05 | Conditionals | ✅ |
 | 06 | — | ⬜ |
 | 07 | — | ⬜ |
 | 08 | — | ⬜ |
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `4 / 21`
+**Days Completed:** `5 / 21`
 
 ```text
-Progress: ░░░░░░░░░░░░░░░░░░░░ 19%
+Progress: ░░░░░░░░░░░░░░░░░░░░ 24%
 ```
 
 This section will be updated throughout the challenge.
