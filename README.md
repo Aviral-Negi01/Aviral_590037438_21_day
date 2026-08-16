@@ -30,7 +30,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 04 | Collections | ✅ |
 | 05 | Dictionaries | ✅ |
 | 06 | Conditionals | ✅ |
-| 07 | — | ⬜ |
+| 07 | For Loops | ✅ |
 | 08 | — | ⬜ |
 | 09 | — | ⬜ |
 | 10 | — | ⬜ |
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `6 / 21`
+**Days Completed:** `7 / 21`
 
 ```text
-Progress: ██████░░░░░░░░░░░░ 29%
+Progress: ██████░░░░░░░░░░░░ 33%
 ```
 
 This section will be updated throughout the challenge.
