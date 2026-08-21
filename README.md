@@ -34,7 +34,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 08 | While Loops | ✅ |
 | 09 | Functions Basics | ✅ |
 | 10 | Functions Collections | ✅ |
-| 11 | — | ⬜ |
+| 11 | Scope and Return Values | ✅ |
 | 12 | — | ⬜ |
 | 13 | — | ⬜ |
 | 14 | — | ⬜ |
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `10 / 21`
+**Days Completed:** `11 / 21`
 
 ```text
-Progress: █████████░░░░░░░░░ 43%
+Progress: ███████████░░░░░░░ 52%
 ```
 
 This section will be updated throughout the challenge.
