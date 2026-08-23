@@ -35,8 +35,8 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 09 | Functions Basics | ✅ |
 | 10 | Functions Collections | ✅ |
 | 11 | Scope and Return Values | ✅ |
-| 12 | — | ⬜ |
-| 13 | — | ⬜ |
+| 12 | Lambda Functions and Comprehensions | ✅ |
+| 13 | Nested Loops | ✅ |
 | 14 | — | ⬜ |
 | 15 | — | ⬜ |
 | 16 | — | ⬜ |
@@ -124,10 +124,10 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `11 / 21`
+**Days Completed:** `13 / 21`
 
 ```text
-Progress: ███████████░░░░░░░ 52%
+Progress: █████████████░░░░░░░ 62%
 ```
 
 This section will be updated throughout the challenge.
