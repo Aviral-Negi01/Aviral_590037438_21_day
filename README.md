@@ -37,7 +37,7 @@ This repository will document my progress, projects, experiments, mistakes, and 
 | 11 | Scope and Return Values | ✅ |
 | 12 | Lambda Functions and Comprehensions | ✅ |
 | 13 | Nested Loops | ✅ |
-| 14 | — | ⬜ |
+| 14 | Validations | ✅ |
 | 15 | — | ⬜ |
 | 16 | — | ⬜ |
 | 17 | — | ⬜ |
@@ -124,7 +124,7 @@ Learn → Practice → Build → Document → Commit
 
 ## 📊 Progress
 
-**Days Completed:** `13 / 21`
+**Days Completed:** `14 / 21`
 
 ```text
 Progress: █████████████░░░░░░░ 62%
